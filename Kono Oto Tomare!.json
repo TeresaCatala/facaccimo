@@ -66,7 +66,7 @@
       "volume": "3",
       "last_updated": "1768817017",
       "groups": {
-        "Vol 3": "https://mangakatana.com/manga/kono-oto-tomare.1749/c8"
+        "Vol 3": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzg=/"
       }
     },
     "9": {
@@ -258,7 +258,7 @@
       "volume": "9",
       "last_updated": "1768817973",
       "groups": {
-        "Vol 9": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzMx/"
+        "Vol 9": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzMy/"
       }
     },
     "33": {
@@ -322,7 +322,7 @@
       "volume": "11",
       "last_updated": "1768818316",
       "groups": {
-        "Vol 11": "https://mangakatana.com/manga/kono-oto-tomare.1749/c40"
+        "Vol 11": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQw/"
       }
     },
     "41": {
@@ -546,7 +546,7 @@
       "volume": "18",
       "last_updated": "1768821929",
       "groups": {
-        "Vol 18": "https://mangakatana.com/manga/kono-oto-tomare.1749/c68"
+        "Vol 18": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzY4/"
       }
     },
     "69": {
@@ -798,11 +798,11 @@
       }
     },
     "100": {
-      "title": "Chapter 100: Love Letter",
+      "title": "Chapter 100: Love Letter ",
       "volume": "24",
       "last_updated": "1768822995",
       "groups": {
-        "Vol 24": "Chapter 100: Love Letter"
+        "Vol 24": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzEwMA==/"
       }
     },
     "101": {
@@ -870,7 +870,7 @@
       }
     },
     "109": {
-      "title": "109",
+      "title": "Chapter 109: Words of the Dawn",
       "volume": "26",
       "last_updated": "1768823325",
       "groups": {
@@ -942,11 +942,11 @@
       }
     },
     "118": {
-      "title": "118",
+      "title": "Chapter 118: Capriccio",
       "volume": "28",
       "last_updated": "1768823607",
       "groups": {
-        "Vol 28": "Chapter 118: Capriccio"
+        "Vol 28": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzExOA==/"
       }
     },
     "119": {
@@ -1194,7 +1194,7 @@
       "volume": "24",
       "last_updated": "1768822974",
       "groups": {
-        "Vol 24": "https://mangakatana.com/manga/kono-oto-tomare.1749/c99.5"
+        "Vol 24": "https://mangakatana.com/manga/kono-oto-tomare.1749/c99.5?sv=mk"
       }
     },
     "105.5": {
