@@ -1221,6 +1221,22 @@
         "Vol 34": "/proxy/api/imgchest/chapter/6eyrb29qx7p"
       }
     },
+    "153": {
+      "title": "Chapter 153: Palette",
+      "volume": "35",
+      "last_updated": "1786928858",
+      "groups": {
+        "Vol 35": "/proxy/api/imgchest/chapter/o24aeedld7l"
+      }
+    },
+    "154": {
+      "title": "Chapter 154: Colorful",
+      "volume": "35",
+      "last_updated": "1786929099",
+      "groups": {
+        "Vol 34": "/proxy/api/imgchest/chapter/wl7ljjlb3yx"
+      }
+    },
     "99.5": {
       "title": "Chapter 99.5: blue x blue",
       "volume": "24",
@@ -1259,6 +1275,14 @@
       "last_updated": "1770565931",
       "groups": {
         "Vol 33": "/proxy/api/imgchest/chapter/pg7362l8o7r"
+      }
+    },
+    "152.5": {
+      "title": "Chapter 152.5: Vol 34 extras",
+      "volume": "34",
+      "last_updated": "1786928287",
+      "groups": {
+        "Vol 34": "/proxy/api/imgchest/chapter/6eyrww3zx7p"
       }
     }
   }
